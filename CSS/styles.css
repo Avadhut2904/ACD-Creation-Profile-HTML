@@ -1,0 +1,18 @@
+body {
+    background-color: antiquewhite;
+}
+
+hr {
+    border-color: grey;
+    border-style: dotted none none;
+    border-width: 5px;
+    
+}
+
+h1 {
+    color: brown;
+}
+
+h3 {
+    color: darkorange;
+}
